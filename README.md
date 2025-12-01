@@ -112,12 +112,3 @@ My long-term goal is to become a **top-tier AI Research & Agentic Systems Engine
 ## 📊 GitHub Activity
 
 ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
-<p align="center"> 
-  Visitor Count<br>
-  <img src="https://profile-counter.glitch.me/Sawaira-0316/count.svg" />
-</p>
-
-<p align="center">
-  <img src="https://gidigi.com/cdn/love.gif">
-</p>
