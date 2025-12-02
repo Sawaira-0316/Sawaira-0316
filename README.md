@@ -30,28 +30,6 @@ My work focuses on building **real production-level AI systems** that can:
 
 My long-term goal is to become a **top-tier AI Research & Agentic Systems Engineer** working on intelligent decision-making systems.
 
----
-
-## 🔭 What I’m Working On
-
-- 🤖 **AI Customer Support Automation Agent**
-  - RAG-based answer generation
-  - Intent detection
-  - Auto ticket generation
-  - Escalation agent for complex cases
-  - Built with **LangGraph + Chroma + OpenAI + FastAPI**
-
-- 📚 **Knowledge-Based AI Assistants**
-  - PDF / Document / SaaS knowledge agents
-  - Vector search using **FAISS & Chroma**
-  - Context-aware multi-turn memory
-
-- 🧠 **Agentic Reasoning Systems**
-  - Planner → Tool → Executor → Memory loops
-  - Decision-making AI flows using **LangGraph**
-
----
-
 ## 🌱 Current Research Focus
 
 - 🔹 Multi-Agent Architectures  
